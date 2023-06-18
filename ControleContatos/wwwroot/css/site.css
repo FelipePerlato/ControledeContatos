@@ -16,3 +16,14 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.container button {
+    border: none;
+    cursor: pointer;
+
+   
+    display: inline-block;
+    margin: 0 -2px;
+    padding: 5px 10px;
+    border: 1px solid #666666;
+}
